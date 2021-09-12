@@ -1,0 +1,37 @@
+{
+   "movies":[
+      {
+         "title":"Series",
+         "image":"https://1.bp.blogspot.com/-n-D3yB6iOF4/YS8KBzXqyaI/AAAAAAAAEn4/OQPKTGiUbcUbJos--jzrKLYEs7M_WMTWACNcBGAsYHQ/s320/pholder.jpg",
+         "description":"",
+         "idm":"IMDB8.5",
+         "credit":"Credit-Gold Channel",
+         "listitem":[
+            {
+               "title":"Episode 1",
+               "link":""
+            },
+            {
+               "title":"Episode 2",
+               "link":""
+            },
+            {
+               "title":"Episode 3",
+               "link":""
+            },
+            {
+               "title":"Episode 4",
+               "link":""
+            },
+            {
+               "title":"Episode 5",
+               "link":""
+            },
+            {
+               "title":"Episode 6",
+               "link":""
+            }
+         ]
+      }
+   ]
+}
