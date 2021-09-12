@@ -1,1 +1,13 @@
-
+{
+   "movies":[
+      {
+         "title":"Khin Hlaing",
+         "image":"https://1.bp.blogspot.com/-n-D3yB6iOF4/YS8KBzXqyaI/AAAAAAAAEn4/OQPKTGiUbcUbJos--jzrKLYEs7M_WMTWACNcBGAsYHQ/s320/pholder.jpg",
+         "description":"",
+         "idm":"IMDB7",
+         "file_size":"30MB",
+         "credit":"Credit-Channel Myanmar",
+         "link":"https://www.mediafire.com/file/8sum0u0itebnubb/KhinHlaing.mp4/file"
+      }
+   ]
+}
